@@ -1,55 +1,32 @@
-Hi there 👋🏾, I'm Olamide
+Olamide Akinola
 
-💻 Frontend Developer
+Frontend Developer | Web Development
 
-I'm a developer focused on building responsive, user-friendly websites and web applications.
+I build responsive, interactive web applications with a focus on usability, functionality, and clean interfaces.
 
-I'm currently developing my skills in HTML, CSS, JavaScript, Git, and GitHub, while building practical projects to strengthen my frontend development skills.
+My work includes practical projects such as a productivity dashboard, a calculator, a quiz application, a digital world clock, and a personal portfolio. I enjoy turning ideas into working applications and improving them through development and testing.
 
-🛠️ Technologies & Tools
+Technical Skills
 
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- VS Code
+- Frontend: HTML, CSS, JavaScript, Typescript 
+- Framework: React
+- Tools: Git, GitHub, VS Code
+- Additional exposure: Python, Flask, SQL, SQLite
 
-🚀 Projects
+Featured Projects
 
-I enjoy learning by building projects and improving them as I gain more experience.
+- FlowSpace — A productivity dashboard for organising tasks and managing focus time.
+- Digital World Clock — A multi-city clock with city search, time-format options, and themes.
+- Quiz App — An interactive quiz featuring timed questions, answer feedback, and score tracking.
+- Calculator — A calculator with standard arithmetic and additional calculation controls.
+- Personal Portfolio — A website showcasing my projects and web development work.
 
-Some of my projects include:
+Education
 
-- 🧮 Calculator
-- 🕐 Digital Clock
-- 🏫 School Website
-- 🌐 Personal Portfolio
-- ❓ Quiz App
+B.Eng. Metallurgical & Materials Engineering
 
-📚 Currently Learning
+Find Me Online
 
-- JavaScript
-- Modern frontend development
-- Git & GitHub
-- React (as I progress in my learning journey)
-
-🌐 My Portfolio
-
-Check out my portfolio and projects:
-
-[View My Portfolio](https://omoakin1-devburn.github.io/portfolio-website/)
-
-🎓 Education
-
-Metallurgical & Materials Engineering
-
-📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/omoakin1)
-- 📧 Email: [mailto:haroldburn03@gmail.com]
-- 💻 [GitHub](https://github.com/omoakin1-devburn)
-- 💬 WhatsApp: [https://wa.me/2348166940771]
-
----
-
-⭐ Thanks for visiting my profile!
+- Portfolio: https://omoakin1-devburn.github.io/portfolio-website/
+- LinkedIn: https://www.linkedin.com/in/omoakin1
+- GitHub: https://github.com/OMOAKIN1-devburn
